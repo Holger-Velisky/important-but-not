@@ -1,6 +1,6 @@
-# This git repo is the source code for the app from https://kahoot-win.herokuapp.com
+# This git repo is the source code for the app from https://lolaskoaks.herokuapp.com
 ## This repo will be updated every once in a while. You can still decompile the source from the apps:
-- https://kahoot-win.herokuapp.com/blog/download
+- https://lolaskoaks.herokuapp.com/blog/download
 
 To use, clone this repository, and run:
 
@@ -17,7 +17,7 @@ You may modify the code to remove the electron stuff.
 
 The app doesn't actually verify the requests, so you can actually just remove all things related to recaptcha
 
-Remember to give credit to theusaf for this.
+Remember to give credit to MATEU for this.
 
 ## Requirements
 - At least 1GB RAM. If you only have 512 MB, you will need to make changes to store the database in disk instead of memory.
